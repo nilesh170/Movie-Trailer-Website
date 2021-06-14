@@ -1,6 +1,8 @@
 # Udacity-Project-Movie-Trailer-Website
 ## Overview
-This project builds a Movie Trailer Website where users can see my movies & tv shows collection and watch their trailers. The code stores a list of movie & tv shows titles, poster images etc. Some information is displayed on a web page.
+This project builds a Movie Trailer Website where users can see my movies & tv shows collection and watch their trailers. 
+
+The code stores a list of movie & tv shows titles, poster images etc. Some information is displayed on a web page.
 
 ## Requirement
 For run this program you will need to have installed on your computer [Python 3.7] 
@@ -10,12 +12,18 @@ For run this program you will need to have installed on your computer [Python 3.
 * fresh_tomatoes.py - creates the HTML file for the website 
 ## How to Run Project
 Open the text-based interface for your operating system (e.g. the terminal window in Linux, the command prompt in Windows).
+
 Navigate to the project directory and type in the following command:
 ```
 python entertainment_center.py
 ```
+
+## Screenshots of the Website
+![](https://github.com/nilesh170/Movie-Trailer-Website/blob/master/1.png)
+![](https://github.com/nilesh170/Movie-Trailer-Website/blob/master/2.png)
+![](https://github.com/nilesh170/Movie-Trailer-Website/blob/master/3.png)
+
 ## Contact Info
 * https://twitter.com/Nilesh79102577
-* https://www.linkedin.com/in/nilesh-mahto-5330a116a/
+* https://www.linkedin.com/in/nilesh17/
 * https://github.com/nilesh170
-
